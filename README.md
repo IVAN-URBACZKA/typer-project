@@ -6,8 +6,8 @@ Permet de selectionner les fichiers selon leur extension et de les afficher ou s
 
 ## Notion abordées
 
-
+Création de chemin avec pathlib 
 
 ## Librairies utilisées
 
-Typer
+Typer - Pathlib
