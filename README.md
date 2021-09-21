@@ -1,3 +1,13 @@
 # Projet découverte de la librairie Typer
 
-Ce script me permet de chercher des fichiers selon leur extension dans un dossier de les afficher ou de les supprimer
+## Le script
+
+Permet de selectionner les fichiers selon leur extension et de les afficher ou supprimer
+
+## Notion abordées
+
+
+
+## Librairies utilisées
+
+Typer
